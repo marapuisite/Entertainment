@@ -13,7 +13,7 @@ Example:  ./word-count -b -sort SelectionSort -suf < textfile
     -a - Count frequencies using an AVL tree 
     -s - Count frequencies using a splay tree 
 
--sort SelectionSort | MergeSort | HeapSort
+-sort SelectionSort | MergeSort | HeapSort change
   (optional) Specifies the type of sort.  
   If -sort is omitted, HeapSort is used
 

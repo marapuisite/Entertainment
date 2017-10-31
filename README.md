@@ -209,7 +209,7 @@ Word Stemming and Punctuations
 ------------------------------
  For the punctuation part, we use the built in function "ispunct(c)" to check if 
 the character is a punctuation or a character. If it is a punctuation, then 
-just ignore (treat it like a space). However, due to the nature of 
+just ignore (treat it like a space). However, due to the nature of bbb
 the ispunct(c) function - it considers " ' " and " - " as
 punctuations - there are chances for the side effects happen: "I'd" will be read as 2 
 different words: "I" and "d", same as "he's" becomes "he" and "s". The other case can 

@@ -222,4 +222,4 @@ words end with -s and with -ly. Due to our language skill limitations,
 we cannot check all the cases and all the exceptions. We have tried our best to check 
 all of the cases that we think of. Also, since " 'd ", " 's " is in the scope above,
 we remove them as well. For this option, one needs to add "-suf" in the command line as
-mentioned above.
+mentioned above.XXX

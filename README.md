@@ -23,7 +23,7 @@ Example:  ./word-count -b -sort SelectionSort -suf < textfile
 -------------------------
 Design Decisions & Issues
 -------------------------
-Since we stereotype against english majors, let's avoid writing this in an
+Since we stereotype against engggglish majors, let's avoid writing this in an
 essay format...
 
 Q.  The original BinarySearchTree::Insert() resolves key collosion by
@@ -215,7 +215,7 @@ punctuations - there are chances for the side effects happen: "I'd" will be read
 different words: "I" and "d", same as "he's" becomes "he" and "s". The other case can 
 be "ice-cream" becomes "ice" and "cream". Therefore, we came to the decision of 
 using one of our own functions--ispunctuation(c)--to eliminate the case 's and 'd, 
-and '-'. This function will call ispunct(c) if c is not the ' and -. 
+and '-'. This function will call ispunct(c) if c is nsecond commit for pull Rot the ' and -. 
 
  For the word-stemming part, two stemming kinds are taken care: 
 words end with -s and with -ly. Due to our language skill limitations,

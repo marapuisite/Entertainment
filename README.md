@@ -14,7 +14,7 @@ Example:  ./word-count -b -sort SelectionSort -suf < textfile
     -s - Count frequencies using a splay tree 
 
 -sort SelectionSort | MergeSort | HeapSort change
-  (optional) Specifies the type of sort.  
+  (optional) Specifies tffffhe type of sort.  
   If -sort is omitted, HeapSort is used
 
 -suf

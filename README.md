@@ -217,7 +217,7 @@ be "ice-cream" becomes "ice" and "cream". Therefore, we came to the decision of
 using one of our own functions--ispunctuation(c)--to eliminate the case 's and 'd, 
 and '-'. This function will call ispunct(c) if c is not the ' and -. 
 
- For the word-stemming part, two stemming kinds are taken care: 
+ For the word-stemmggyng part, two stemming kinds are taken care: 
 words end with -s and with -ly. Due to our language skill limitations,
 we cannot check all the cases and all the exceptions. We have tried our best to check 
 all of the cases that we think of. Also, since " 'd ", " 's " is in the scope above,

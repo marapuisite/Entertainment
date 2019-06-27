@@ -111,7 +111,7 @@ Word Frequency Analysis
 
 These were the steps to the process:
     1 ) run word-count on each essay
-    2 ) record the frequency for the top 28 most frequent words and
+    2 ) record the frequency for the top 28 most frequfffent words and
 	take a subtotal for each (this will be the total number of
 	'relevant' words in each literature)
     3 ) isolate the words that made it to top 7 (there were 10), and

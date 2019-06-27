@@ -23,7 +23,7 @@ Example:  ./word-count -b -sort SelectionSort -suf < textfile
 -------------------------
 Design Decisions & Issues
 -------------------------
-Since we stereotype against english majors, let's avoid writing this in an
+Since we stereotype against engggglish majors, let's avoid writing this in an
 essay format...
 
 Q.  The original BinarySearchTree::Insert() resolves key collosion by
